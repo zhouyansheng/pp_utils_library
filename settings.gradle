@@ -1,0 +1,3 @@
+include ':utilslibrary'
+include ':app'
+rootProject.name = "PP_UTILS_LIBARY"
